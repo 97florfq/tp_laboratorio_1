@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536090041 source:/home/flor/Descargas/TP1/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536088960 /home/flor/Descargas/TP1/utn.h
+
+1536073602 source:/home/flor/Descargas/TP1/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+
